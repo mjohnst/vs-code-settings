@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.fontFamily": "Input Mono, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 12,
+  "editor.rulers": [80, 120],
+  "editor.formatOnPaste": true,
+  "editor.emptySelectionClipboard": false,
+
+  "workbench.colorTheme": "Default High Contrast",
+  "workbench.iconTheme": null,
+
+  "window.zoomLevel": 0,
+
+  // language specific
+  "python.linting.enabled": false,
+  
+  // terminal
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
