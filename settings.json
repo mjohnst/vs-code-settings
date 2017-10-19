@@ -1,15 +1,18 @@
 {
-  "editor.tabSize": 2,
-  "editor.insertSpaces": true,
-  "editor.renderWhitespace": "all",
+  "editor.accessibilitySupport": "off",
+  "editor.dragAndDrop": false,
+  "editor.emptySelectionClipboard": false,
   "editor.fontFamily": "Input Mono, Consolas, 'Courier New', monospace",
   "editor.fontSize": 12,
-  "editor.rulers": [80, 120],
   "editor.formatOnPaste": true,
-  "editor.emptySelectionClipboard": false,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
 
   "workbench.colorTheme": "Default High Contrast",
-  "workbench.iconTheme": null,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "newUntitledFile",
 
   "window.zoomLevel": 0,
 
@@ -19,3 +22,4 @@
   // terminal
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
 }
+
