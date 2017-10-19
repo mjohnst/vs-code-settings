@@ -6,7 +6,7 @@
   "editor.fontSize": 12,
   "editor.formatOnPaste": true,
   "editor.insertSpaces": true,
-  "editor.renderWhitespace": "all",
+  "editor.renderWhitespace": "boundary",
   "editor.rulers": [80, 120],
   "editor.tabSize": 2,
 
